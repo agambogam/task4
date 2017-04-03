@@ -1,0 +1,3 @@
+$.material.init();
+
+$.material.checkbox();
